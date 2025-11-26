@@ -1,10 +1,10 @@
 # c project
 # Monster Hunting Game
-A thrilling ** Terminal-based combat adventure ** written in C.  
+A thrilling **Terminal-based combat adventure** written in C.  
 Fight using your warrior with different monsters at different level.  
 
 ## Game Story
-You are brave hunter entering the ** Land of shadows ** , a cursed  world ruled by terrifying monsters.  
+You are brave hunter entering the **Land of shadows** , a cursed  world ruled by terrifying monsters.  
 Your Goal?  
 **Defeat every creature that crosses cross your path and emerge as the ultimate Monster Slayer !**  
 Only the strongest survive... Are you ready?  
