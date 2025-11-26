@@ -14,8 +14,8 @@ choose your action wisely , as if u take any wrong step u might loose....!
 winning battles gives u acess to your next level , but loosing gives Nothing...  
 
 ## Features
-| Feature | Status |  
-| ------ |:-----:|  
+| Feature |    
+| ------ |  
 |Turn-based combat system |  
 | Random Monster encounter |
 | vectory and defeat conditions |
